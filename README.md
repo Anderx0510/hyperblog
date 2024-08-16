@@ -6,3 +6,4 @@ Blog para el curso de Git y Github de Platzy
 * El flujo de trabajo en Github
 * Creado por 
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades 
