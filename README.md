@@ -5,3 +5,4 @@ Blog para el curso de Git y Github de Platzy
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * Creado por 
+* Incluye ejemplos en Windows, Linux y Mac
